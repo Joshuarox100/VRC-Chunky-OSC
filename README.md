@@ -2,7 +2,7 @@
 Author: Joshuarox100  
 Version: 1.0.0
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/57fyZ9Lw4Io" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+[![Watch the video!]("Docs/Demo.png")](https://www.youtube.com/embed/57fyZ9Lw4Io)
 
 Description: Take control of objects with the power of OSC! With ChunkyOSC, it's easy to create and control objects in world space, with any position and rotation synced remotely for several thousand meters (even for late-joiners) with amazing precision!
 
@@ -75,4 +75,4 @@ If you have different setups for avatars that require extra parameters, it may b
 After you've created your list of parameters in the inspector, you can give the configuration a name and save or update it. To add pre-existing presets, you can simply place the file for them within the presets folder.
 
 ## Contact & Support
-If you wish to contact me or are having issues, you can contact me on Discord using my tag (Joshuarox100#5024). Note that you'll also need to be in the official VRChat server in order to send me messages.
+If you wish to contact me or are having issues, you can leave a detailed description with reproduction steps on the [issues](https://github.com/Joshuarox100/VRC-Chunky-OSC/issues) page or contact me on Discord using my tag (Joshuarox100#5024). Note that you'll also need to be in the official VRChat server in order to send me messages.
