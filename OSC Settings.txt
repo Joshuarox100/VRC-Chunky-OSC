@@ -1,0 +1,126 @@
+{
+  "id": "<AVATAR-ID>",
+  "name": "<AVATAR-NAME>",
+  "parameters": [
+    {
+      "name": "ChunkyOSC",
+      "input": {
+        "address": "/avatar/parameters/ChunkyOSC",
+        "type": "Bool"
+      }
+    },
+    {
+      "name": "ChunkySync",
+      "input": {
+        "address": "/avatar/parameters/ChunkySync",
+        "type": "Bool"
+      },
+      "output": {
+        "address": "/avatar/parameters/ChunkySync",
+        "type": "Bool"
+      }
+    },
+    {
+      "name": "ChunkySize",
+      "input": {
+        "address": "/avatar/parameters/ChunkySize",
+        "type": "Int"
+      },
+      "output": {
+        "address": "/avatar/parameters/ChunkySize",
+        "type": "Int"
+      }
+    },
+    {
+      "name": "ChunkyPolarZ",
+      "input": {
+        "address": "/avatar/parameters/ChunkyPolarZ",
+        "type": "Bool"
+      }
+    },
+    {
+      "name": "ChunkyPolarY",
+      "input": {
+        "address": "/avatar/parameters/ChunkyPolarY",
+        "type": "Bool"
+      }
+    },
+    {
+      "name": "ChunkyPolarX",
+      "input": {
+        "address": "/avatar/parameters/ChunkyPolarX",
+        "type": "Bool"
+      }
+    },
+    {
+      "name": "ChunkyCoordZ",
+      "input": {
+        "address": "/avatar/parameters/ChunkyCoordZ",
+        "type": "Int"
+      }
+    },
+    {
+      "name": "ChunkyCoordY",
+      "input": {
+        "address": "/avatar/parameters/ChunkyCoordY",
+        "type": "Int"
+      }
+    },
+    {
+      "name": "ChunkyCoordX",
+      "input": {
+        "address": "/avatar/parameters/ChunkyCoordX",
+        "type": "Int"
+      }
+    },
+    {
+      "name": "ChunkyRoll",
+      "input": {
+        "address": "/avatar/parameters/ChunkyRoll",
+        "type": "Float"
+      }
+    },
+    {
+      "name": "ChunkyAimZ",
+      "input": {
+        "address": "/avatar/parameters/ChunkyAimZ",
+        "type": "Float"
+      }
+    },
+    {
+      "name": "ChunkyAimY",
+      "input": {
+        "address": "/avatar/parameters/ChunkyAimY",
+        "type": "Float"
+      }
+    },
+    {
+      "name": "ChunkyAimX",
+      "input": {
+        "address": "/avatar/parameters/ChunkyAimX",
+        "type": "Float"
+      }
+    },
+    {
+      "name": "ChunkyPosZ",
+      "input": {
+        "address": "/avatar/parameters/ChunkyPosZ",
+        "type": "Float"
+      }
+    },
+    {
+      "name": "ChunkyPosY",
+      "input": {
+        "address": "/avatar/parameters/ChunkyPosY",
+        "type": "Float"
+      }
+    },
+    {
+      "name": "ChunkyPosX",
+      "input": {
+        "address": "/avatar/parameters/ChunkyPosX",
+        "type": "Float"
+      }
+    }
+  ]
+}

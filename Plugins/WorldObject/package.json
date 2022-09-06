@@ -1,0 +1,4 @@
+{
+	"plugin":"World Object",
+	"script":"ChunkyOSC.Plugins.ChunkyWorld"
+}

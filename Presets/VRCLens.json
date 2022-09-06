@@ -1,0 +1,1 @@
+{"name":"VRCLens","parameters":[{"name":"VRCLFeatureToggle","type":0,"boolVal":false,"floatVal":0.0,"intVal":0},{"name":"VRCLZoomRadial","type":2,"boolVal":false,"floatVal":0.25,"intVal":0},{"name":"VRCLExposureRadial","type":2,"boolVal":false,"floatVal":0.5,"intVal":0},{"name":"VRCLApertureRadial","type":2,"boolVal":false,"floatVal":0.25,"intVal":0}],"custom":true}

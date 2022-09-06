@@ -1,0 +1,5 @@
+{
+	// Remove this line after setting the values below.
+	"plugin":"<PLUGIN_NAME>",
+	"script":"ChunkyOSC.Plugins.<CLASS_NAME>"
+}

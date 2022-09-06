@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7565974202979899803
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7865679485970257461}
+  - component: {fileID: 7770020702834399817}
+  m_Layer: 0
+  m_Name: Avatar Setup
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7865679485970257461
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7565974202979899803}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7770020702834399817
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7565974202979899803}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c578ebfb902d7048a52d385b702d89d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  avatar: {fileID: 0}
+  menu: {fileID: 0}
+  destination: Assets/ChunkyOSC/Temp
+  writeDefaults: 0
+  prefab: {fileID: 8370742452644432462, guid: f6e59845b8eb8b448bf385554a3874fc, type: 3}
+  mask: {fileID: 31900000, guid: dc8acc2549fa1e94383486549a1ef81b, type: 2}
+  defaultClip: {fileID: 7400000, guid: f68dd91fa1e9822498f8ffa70899cfb4, type: 2}
+  gestureReference: {fileID: 9100000, guid: 3b0134d3c440ac44a94603a813c7bc47, type: 2}
+  fxReference: {fileID: 9100000, guid: 882455af20b038141953ed4f466c33b8, type: 2}
+  exprMenu: {fileID: 11400000, guid: 6966c42f7e007b0499b0e8a9832724e1, type: 2}
+  exprParams: {fileID: 11400000, guid: 98ff6f67cd575194c8f7a43919e8c104, type: 2}
+  menuIcon: {fileID: 2800000, guid: aa2415932cdb4da4fbeb1fb18c2ba149, type: 3}
