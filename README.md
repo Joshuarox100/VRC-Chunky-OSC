@@ -11,7 +11,7 @@ Description: Take control of objects with the power of OSC! With ChunkyOSC, it's
 ## Installation Guide
 If you haven't already, download and import the VRCSDK3 for Avatars either from the official VRChat website or from their Creator Companion app.
 
-You can then simply import the ChunkyOSC package into the project. You will be prompted to install other required packages you may be missing when you first attempt to use both the avatar setup and the client.
+You can then simply import the ChunkyOSC package into the project after downloading the latest version from the [Releases](https://github.com/Joshuarox100/VRC-Chunky-OSC/releases) page. You will be prompted to install other required packages you may be missing when you first attempt to use both the avatar setup and the client.
 
 ## Setting up Avatars
 To begin, drag the Avatar Setup prefab from the ChunkyOSC folder into your Scene. This has the setup script you will need to use already on it.
