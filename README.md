@@ -2,7 +2,7 @@
 Author: Joshuarox100  
 Version: 1.0.0
 
-[![Watch the video!]("Docs/Demo.png")](https://www.youtube.com/embed/57fyZ9Lw4Io)
+[![Watch the video](https://img.youtube.com/vi/57fyZ9Lw4Io/maxresdefault.jpg)](https://www.youtube.com/embed/57fyZ9Lw4Io)
 
 Description: Take control of objects with the power of OSC! With ChunkyOSC, it's easy to create and control objects in world space, with any position and rotation synced remotely for several thousand meters (even for late-joiners) with amazing precision!
 
